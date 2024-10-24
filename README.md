@@ -1,4 +1,4 @@
-# TripleTen_projects
+# Tigray Tableau Visualizations
 Projects I worked on while Tigray was under a Genocidal war waged by the 'Ethiopian Government', 'Eritrea' and 'Amhara forces' starting early 2020's.
 
 | Project number | Title | Description |
